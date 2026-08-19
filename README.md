@@ -16,5 +16,5 @@
 
 To view this project locally:
 
-1. Clone the repository by running the command below:
+1. Clone the repository by running the command:
    git clone https://github.com/aishwarya858/Profile_Card-.git
